@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.h1-1{
+    font-size: 50px;
+    color: orange;
+}
+.h1-2{
+    font-size: 50px;
+    color: #ff0800;
+}
+h2{
+    color: orange;
+}
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 90%;
+}
